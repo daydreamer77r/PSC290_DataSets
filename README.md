@@ -1,2 +1,5 @@
 # PSC290_DataSets
-Data sets for python class review code assignments
+### Robin Goodrich
+
+Home for my data sets for python class (Sp 2017).
+
